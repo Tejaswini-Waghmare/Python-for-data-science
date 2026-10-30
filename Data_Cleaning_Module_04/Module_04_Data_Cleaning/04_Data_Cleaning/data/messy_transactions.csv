@@ -1,0 +1,83 @@
+transaction_id,customer_id,transaction_date,amount_usd,category,payment_status,email,city
+TX0001,C001,2026-05-08,484.98,Transport,completed,customer1@example.com,Sandy Springs
+TX0002,C024,2026-09-03,90.33,Utilities,Failed,customer2@example.com,Atlanta
+TX0003,C007,2026-04-17,36.90,Utilities,Completed,customer3@example.com,Sandy Springs
+TX0004,C021,2026-09-14,,Transport,Failed,customer4@example.com,Sandy Springs
+TX0005,C001,2026-03-23,219.47,Shopping,PENDING,customer5@example.com,Dunwoody
+TX0006,C025,2026-06-04,129.28,Groceries,Failed,customer6@example.com,Atlanta
+TX0007,C012,2026-05-26,-50,Groceries,Failed,customer7@example.com,Sandy Springs
+TX0008,C013,2026-02-18,106.75,Dining,Completed,customer8@example.com,Dunwoody
+TX0009,C023,2026-02-02,439.35,Transport,PENDING,customer9@example.com,Atlanta
+TX0010,C004,2026-07-09,643.66,Shopping,PENDING,customer10@example.com,Atlanta
+TX0011,C007,2026-05-23,287.08,Groceries,Completed,customer11@example.com,Sandy Springs
+TX0012,C024,2026-04-06,"1,250.00",Shopping,Failed,customer12@example.com,Dunwoody
+TX0013,C021,2026-09-08,742.30,Dining,Completed,customer13@example.com,Atlanta
+TX0014,C011,2026-07-09,619.02,Groceries,completed,customer14@example.com,Sandy Springs
+TX0015,C011,2026-04-21,not available,Shopping,Failed,customer15@example.com,Sandy Springs
+TX0016,C009,2026-03-08,352.26,Utilities,Completed,customer16@example.com,Dunwoody
+TX0017,C014,2026-07-12,564.06,Transport,completed,customer17@example.com,Sandy Springs
+TX0018,C025,2026-01-28,377.73,Groceries,completed,customer18@example.com,Sandy Springs
+TX0019,C022,13/40/2026,132.59,Groceries,Failed,customer19@example.com,Dunwoody
+TX0020,C015,2026-09-09,452.98,Utilities,Completed,customer20@example.com,Sandy Springs
+TX0021,C022,2026-09-25,544.73,Dining,PENDING,customer21@example.com,Atlanta
+TX0022,C006,2026-08-01,230.72,Dining,Completed,customer22@example.com,Atlanta
+TX0023,C004,2026/05/09,388.15,Utilities,Completed,customer23@example.com,Atlanta
+TX0024,C025,2026-03-18,127.34,Utilities,Completed,customer24@example.com,Sandy Springs
+TX0025,C001,2026-02-12,253.25,Dining,completed,customer25@example.com,Atlanta
+TX0026,C019,2026-02-03,192.04, groceries ,Completed,customer26@example.com,Sandy Springs
+TX0027,C005,2026-08-18,577.89,Transport,PENDING,customer27@example.com,Sandy Springs
+TX0028,C014,2026-04-18,656.24,Transport,PENDING,customer28@example.com,Dunwoody
+TX0029,C021,2026-06-15,746.43,Utilities,Failed,customer29@example.com,Atlanta
+TX0030,C003,2026-06-01,197.21,Utilities,Completed,customer30@example.com,Atlanta
+TX0031,C001,2026-02-23,447.50,Groceries,completed,customer31@example.com,atlanta 
+TX0032,C011,2026-02-17,680.48,Transport,PENDING,customer32@example.com,Sandy Springs
+TX0033,C018,2026-03-24,371.78,Utilities,Completed,customer33@example.com,Dunwoody
+TX0034,C016,2026-07-07,193.60,Groceries,Completed,customer34@example.com,Sandy Springs
+TX0035,C014,2026-07-15,331.82,Groceries,Completed,customer35@example.com,Atlanta
+TX0036,C011,2026-02-08,310.93,Transport,completed,invalid-email,Sandy Springs
+TX0037,C014,2026-03-09,344.73,Shopping,completed,customer37@example.com,Atlanta
+TX0038,C018,2026-02-02,340.70,Utilities,Completed,customer38@example.com,Atlanta
+TX0039,C008,2026-03-14,695.88,Shopping,Failed,customer39@example.com,Atlanta
+TX0040,C002,2026-03-13,650.52,Groceries,Failed,customer40@example.com,Dunwoody
+TX0041,,2026-05-14,695.99,Utilities,Failed,customer41@example.com,Atlanta
+TX0042,C007,2026-01-19,154.57,Utilities,Completed,customer42@example.com,Sandy Springs
+TX0043,C002,2026-08-17,245.50,Utilities,completed,customer43@example.com,Atlanta
+TX0044,C003,2026-03-03,721.17,Utilities,Completed,customer44@example.com,Sandy Springs
+TX0045,C013,2026-02-19,648.44,Transport,Completed,customer45@example.com,Sandy Springs
+TX0046,C003,2026-07-22,44.21,Utilities,Completed,customer46@example.com,Sandy Springs
+TX0047,C009,2026-04-22,99999,Dining,completed,customer47@example.com,Dunwoody
+TX0048,C022,2026-05-15,305.90,Dining,Completed,customer48@example.com,Atlanta
+TX0049,C019,2026-02-03,351.84,Utilities,completed,customer49@example.com,Sandy Springs
+TX0050,C012,2026-02-08,209.92,Dining,PENDING,customer50@example.com,Atlanta
+TX0051,C018,,337.07,Utilities,Completed,customer51@example.com,Sandy Springs
+TX0052,C010,2026-02-05,615.57,Dining,Completed,customer52@example.com,Atlanta
+TX0053,C005,2026-05-10,560.68,Utilities,completed,customer53@example.com,Sandy Springs
+TX0054,C022,2026-05-17,267.02,Shopping,PENDING,customer54@example.com,Atlanta
+TX0055,C014,2026-05-02,82.84,Groceries,complete,customer55@example.com,Atlanta
+TX0056,C009,2026-03-24,483.28,Shopping,Completed,customer56@example.com,Sandy Springs
+TX0057,C001,2026-02-03,329.35,Transport,Completed,customer57@example.com,Atlanta
+TX0058,C019,2026-09-05,628.43,Shopping,completed,customer58@example.com,Atlanta
+TX0059,C002,2026-06-07,241.57,Transport,Completed,customer59@example.com,Dunwoody
+TX0060,C014,2026-03-08,588.39,Transport,completed,customer60@example.com,Dunwoody
+TX0061,C024,2026-06-26,33.22,GROCERY,completed,customer61@example.com,Dunwoody
+TX0062,C023,2026-02-13,132.01,Groceries,Failed,customer62@example.com,Atlanta
+TX0063,C015,2026-06-10,161.69,Transport,completed,customer63@example.com,Atlanta
+TX0064,C013,2026-06-09,500.12,Groceries,PENDING,customer64@example.com,Dunwoody
+TX0065,C013,2026-09-11,486.49,Groceries,Completed,customer65@example.com,Dunwoody
+TX0066,C009,2026-01-04,146.25,Utilities,Failed,customer66@example.com,Dunwoody
+TX0067,C011,2026-07-20,550.48,Utilities,Completed,customer67@example.com,Dunwoody
+TX0068,C007,2026-05-02,676.14,Shopping,Completed,customer68@example.com,Sandy Springs
+TX0069,C018,2026-04-12,695.30,Shopping,Completed,customer69@example.com,Sandy Springs
+TX0070,C020,2026-06-22,691.77,Groceries,PENDING,customer70@example.com,Sandy Springs
+TX0071,C014,2026-06-13,242.32,Dining,Completed,customer71@example.com,Atlanta
+TX0072,C022,2026-07-22,156.00,Transport,Completed,customer72@example.com,Sandy Springs
+TX0073,C018,2026-01-10,236.20,Dining,completed,customer73@example.com,Dunwoody
+TX0074,C020,2026-06-15,592.53,Shopping,Failed,customer74@example.com,Sandy Springs
+TX0075,C016,2026-03-22,172.07,Groceries,PENDING,customer75@example.com,Sandy Springs
+TX0076,C020,2026-06-03,502.93,Transport,PENDING,customer76@example.com,Atlanta
+TX0077,C005,2026-01-02,607.82,Transport,Failed,customer77@example.com,Sandy Springs
+TX0078,C003,2026-08-14,639.56,Utilities,completed,customer78@example.com,Sandy Springs
+TX0079,C016,2026-07-08,526.82,Transport,Completed,customer79@example.com,Atlanta
+TX0080,C008,2026-03-26,587.14,Utilities,Failed,customer80@example.com,Atlanta
+TX0008,C013,2026-02-18,106.75,Dining,Completed,customer8@example.com,Dunwoody
+TX0010,C004,2026-07-09,230.00,Shopping,PENDING,customer10@example.com,Atlanta
