@@ -1,0 +1,2 @@
+numpy>=1.26,<3
+notebook>=7,<8
